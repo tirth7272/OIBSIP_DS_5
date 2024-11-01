@@ -1,1 +1,5 @@
 # OIBSIP_DS_5
+
+In this task, I developed a linear regression model to predict sales based on advertising spend across different media channels, including TV, radio, and newspapers. The dataset was thoroughly analyzed to understand the relationships between features, and I used pair plots and a correlation heatmap to identify the strongest predictors of sales. After splitting the dataset into training and testing sets, I trained a Linear Regression model to fit the data and predict sales based on advertising investments.
+
+The model's performance was evaluated using Root Mean Squared Error (RMSE) and R-squared (R²) metrics, which provided insight into its accuracy and explanatory power. Additionally, I visualized the relationship between actual and predicted sales values to assess the model's predictive capabilities. This task solidified my understanding of linear regression and its application in predictive analytics, showing how data-driven insights can guide advertising strategies and budget allocation.
